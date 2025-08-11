@@ -33,3 +33,6 @@ print(f"List after being sorted:{my_list}")
 
 index_of_30 = my_list.index(30)
 print(f"The index of the value 30 is:{index_of_30}")
+
+#=======================================================================
+print("Final List:", my_list)
