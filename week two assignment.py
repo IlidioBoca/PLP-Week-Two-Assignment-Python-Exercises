@@ -22,6 +22,8 @@ print(f"List after extending with another list:{my_list}")
 my_list.pop()
 print(f"List after removing the last element:{my_list}")
 
+print("Final List:", my_list)
+
 #=======================================================================
 
 my_list.sort()
